@@ -1,3 +1,4 @@
 canvasapi
 bs4
 python-dotenv
+discord.py
