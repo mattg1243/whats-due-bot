@@ -1,0 +1,3 @@
+canvasapi
+bs4
+python-dotenv
